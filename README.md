@@ -4,7 +4,7 @@
 
 ## Technologies & Tools
 * C
-* IntelliJ Community Edition
+* CodeLite
 
 ## License
  The application is under the MIT license.
